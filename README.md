@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ictTuri
 - 👀 I’m interested in programming, designing, drawing, voleyboll and music.
-- 🌱 I’m currently learning Spring Boot and Java with Postgres.
+- 🌱 I’m currently working with Java/Spring Boot and Postgres.
 - 💞️ I’m looking to collaborate only on cool project.
 - 📫 How to reach me ... mollaartur13@gmail.com
 
